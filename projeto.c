@@ -35,7 +35,7 @@ int main() {
         }
         media = media / 5;
         
-        
+        // resultado final
         printf("\nResultado final:\n");
         printf("Atleta: %s\n", nome);
 
